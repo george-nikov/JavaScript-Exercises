@@ -1,1 +1,2 @@
 # JavaScript-Exercises
+JavaScript Practice
