@@ -1,4 +1,4 @@
-function souveniers(team, typeOfSouveniers, countOfPurch) {
+function souvenier(team, typeOfSouveniers, countOfPurch) {
     countOfPurch = Number(countOfPurch);
     let price = 0;
     let typeIsTrue = false;
@@ -91,6 +91,6 @@ function souveniers(team, typeOfSouveniers, countOfPurch) {
         console.log("Invalid country!");
     }
 }
-souveniers('Denmark',
+souvenier('Denmark',
     'ugly',
     8);
