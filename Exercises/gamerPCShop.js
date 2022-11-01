@@ -1,4 +1,4 @@
-function gamerPC (input) {
+function gamerPCShop (input) {
 
 let games = input[0];
 let index = 1;
@@ -38,7 +38,7 @@ console.log(`Overwatch - ${percentOverwatch.toFixed(2)}%`);
 console.log(`Others - ${percentOthers.toFixed(2)}%`);
 
 }
-gamerPC(["4",
+gamerPCShop(["4",
 "Hearthstone",
 "Fornite",
 "Overwatch",
